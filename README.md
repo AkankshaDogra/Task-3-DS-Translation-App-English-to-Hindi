@@ -39,3 +39,7 @@ This Python script provides a feature to translate English audio into Hindi. The
    
 
 ## Visuals
+
+Include relevant screenshots here to show the GUI and functionality of the application.
+
+
