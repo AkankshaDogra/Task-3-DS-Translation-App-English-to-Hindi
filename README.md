@@ -42,4 +42,9 @@ This Python script provides a feature to translate English audio into Hindi. The
 
 Include relevant screenshots here to show the GUI and functionality of the application.
 
+![Beam Search Decoding](https://github.com/AkankshaDogra/Task-3-DS-Translation-App-English-to-Hindi/blob/main/Task-3-Visuals/ss1.PNG?raw=true)
+![Beam Search Decoding](https://github.com/AkankshaDogra/Task-3-DS-Translation-App-English-to-Hindi/blob/main/Task-3-Visuals/ss2.PNG?raw=true)
+![Beam Search Decoding](https://github.com/AkankshaDogra/Task-3-DS-Translation-App-English-to-Hindi/blob/main/Task-3-Visuals/ss3.PNG?raw=true)
+![Beam Search Decoding](https://github.com/AkankshaDogra/Task-3-DS-Translation-App-English-to-Hindi/blob/main/Task-3-Visuals/ss4.PNG?raw=true)
+
 
